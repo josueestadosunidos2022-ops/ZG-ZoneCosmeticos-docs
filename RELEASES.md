@@ -6,9 +6,9 @@
 - `zonecosmeticos-1.10.1-protected.jar` SHA-256: `F38D8BF006064888B8BC72AD81510D8A2F0C0D7CA6FBF1C5151587FE8BB5E3BE`.
 - New 1.10.1 distribution metadata identifies Elgochogms. Gameplay and protocol are unchanged from 1.10.0. The original 1.10.0 guide reported 240 Forge fixture checks and a controlled graphical review of GUI scales 2–4; **those results do not directly test this protected 1.10.1 JAR**.
 - 1.10.1 Gradle build and `modelCheck` passed: 43 styles baked, 358 material meshes. ProGuard completed, with no Java sources or mapping embedded. The exact protected JAR started with protected ZoneCore 2.1.3 and ZoneCrates 2.0.6 on isolated Forge 47.4.10; `/cosmetic` registered, `/cosmetic reload` responded, and shutdown was clean.
-- Client rendering, purchase transactions, saved outfits in multiplayer, complete modpack and production hosting have not been tested with the protected 1.10.1 JAR. CurseForge upload and moderation remain pending.
+- Client rendering, purchase transactions, saved outfits in multiplayer, complete modpack and production hosting have not been tested with the protected 1.10.1 JAR. Uploaded as Beta CurseForge [file 9124628](https://authors.curseforge.com/#/projects/1738048/files/9124628) for **Client and Server**; analysis, moderation and public availability are pending.
 
 ## Español
 
-La entrega 1.10.1 es un único JAR protegido para ambos lados, con autor Elgochogms y licencia All Rights Reserved. Conserva el protocolo 7 y las funciones de 1.10.0. Pasó compilación, revisión de modelos y arranque/comandos/cierre de servidor aislado; todavía faltan cliente gráfico, compras, multijugador, modpack completo y hosting con este JAR exacto. La carga a CurseForge sigue pendiente; comprueba el SHA-256 y respalda el mundo antes de instalar.
+La entrega 1.10.1 es un único JAR protegido para ambos lados, con autor Elgochogms y licencia All Rights Reserved. Conserva el protocolo 7 y las funciones de 1.10.0. Pasó compilación, revisión de modelos y arranque/comandos/cierre de servidor aislado; todavía faltan cliente gráfico, compras, multijugador, modpack completo y hosting con este JAR exacto. El archivo Beta 9124628 está cargado en CurseForge para ambos lados, pendiente de análisis y aprobación pública; comprueba el SHA-256 y respalda el mundo antes de instalar.
 
