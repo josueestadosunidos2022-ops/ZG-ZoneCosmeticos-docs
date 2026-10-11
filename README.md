@@ -1,41 +1,20 @@
 # ZG ZoneCosmeticos
 
-## English
-
-Original accessories and visual effects managed by the server. Minecraft 1.20.1 / Forge 47.x.
-
-### Installation
-
-Install the release JAR on every side required by its file metadata. Do not install development or test JARs. Required mod dependencies shown by current source metadata: **ZoneCore**. Check the dependency version range of the exact uploaded file before installation.
-
-### Configuration
-
-Edit generated TOML files while the server or game is stopped unless a documented reload command is available. Back up persistent data before updates.
-
-| Config file | Use |
-|---|---|
-| `catalogo.toml` | Verify the exact generated path and options for the selected release. |
-
-See [configuration reference](CONFIGURATION.md) for keys detected in source and [release compatibility](RELEASES.md) for version-pair rules.
+Minecraft 1.20.1 · Forge 47.4+ · version 1.10.1 · © Elgochogms
 
 ## Español
 
-Accesorios y efectos visuales originales administrados por el servidor. Minecraft 1.20.1 / Forge 47.x.
+ZoneCosmeticos ofrece 68 accesorios y efectos ZONE personalizados, 43 estilos de modelo y un armario administrado por el servidor. Incluye búsqueda por nombre/ID, filtros, ordenación, vista previa de conjunto y tres conjuntos guardados por jugador. Las compras con GodieCoins y el equipamiento se validan en servidor. La preferencia de partículas del cliente ofrece todos, solo los propios o desactivados.
 
-### Instalación
+Instala **el mismo JAR universal** en servidor y clientes. Requiere ZoneCore `[2.1.0,)` en servidor y Forge 47.4+. El protocolo de red es 7; no mezcles versiones. En el juego usa `/cosmetic` y `/cosmetic ayuda`. Respalda el mundo y `config/ZONEMODS/zonecosmeticos` antes de actualizar. Consulta [configuración, comandos y permisos](CONFIGURATION.md) y [versión y pruebas](RELEASES.md).
 
-Instala el JAR de entrega en los lados indicados por sus metadatos. No instales JAR de desarrollo ni de pruebas. Dependencias obligatorias indicadas por los metadatos actuales: **ZoneCore**. Comprueba el rango de versión del archivo exacto que instales.
+## English
 
-### Configuración
+ZoneCosmeticos provides 68 original ZONE accessories and effects, 43 model styles, and a server controlled wardrobe. It includes name/ID search, filters, sorting, whole outfit preview and three saved outfits per player. The server validates GodieCoin purchases and equipment. Client particle preferences offer all effects, own effects only or off.
 
-Edita los TOML generados con el servidor o juego detenido, salvo que exista un comando de recarga documentado. Respalda los datos persistentes antes de actualizar.
-
-| Archivo de configuración | Uso |
-|---|---|
-| `catalogo.toml` | Comprueba la ruta y opciones generadas de la entrega elegida. |
-
-Consulta la [referencia de configuración](CONFIGURATION.md) para claves detectadas en el código y la [compatibilidad de entregas](RELEASES.md) para las parejas de versiones.
+Install **the same universal JAR** on server and clients. ZoneCore `[2.1.0,)` is required on the server, with Forge 47.4+. Network protocol is 7; do not mix versions. Use `/cosmetic` and `/cosmetic ayuda` in game. Back up world data and `config/ZONEMODS/zonecosmeticos` before updating. See [configuration, commands and permissions](CONFIGURATION.md) and [version and test scope](RELEASES.md).
 
 ## Ownership / Titularidad
 
-Documentation and original ZONE visual assets © Elgochogms. This repository contains documentation and a project avatar only; it does not distribute mod source code, private mappings, server secrets or production configuration.
+Documentation and original ZONE visuals © Elgochogms. This public repository contains only guides and an avatar; the mod source, private obfuscation maps and server data are not distributed. Release 1.10.1 metadata states All Rights Reserved.
+
