@@ -1,4 +1,4 @@
-# ZG ZoneCosmeticos
+# ZoneCosmeticos
 
 Minecraft 1.20.1 · Forge 47.4+ · version 1.10.1 · © Elgochogms
 
