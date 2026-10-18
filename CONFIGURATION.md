@@ -1,4 +1,4 @@
-# ZG ZoneCosmeticos 1.10.1 — configuración / configuration
+# ZoneCosmeticos 1.10.1 — configuración / configuration
 
 ## Español
 
