@@ -1,4 +1,4 @@
-# ZG ZoneCosmeticos — releases / entregas
+# ZoneCosmeticos — releases / entregas
 
 ## 1.10.1 protected candidate / candidato protegido
 
