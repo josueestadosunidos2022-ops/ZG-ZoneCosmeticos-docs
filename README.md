@@ -1,5 +1,28 @@
 # ZoneCosmeticos
 
+## 1.12.2 · Entregas RPG / RPG deliveries
+
+### Español
+
+Actualización de servidor para Minecraft Forge 1.20.1 y Java 17. Añade saldo de niveles de ZoneLevelUp que se reclama por personaje con /comprasniveles reclamar. El saldo que excede el nivel máximo se conserva. Los grimorios de ZGrimory quedan pendientes si el jugador está desconectado o el inventario está lleno. Se pueden recoger con /compras. La integración registra recibos para evitar entregas duplicadas.
+
+Actualiza el JAR de servidor y conserva el cliente 1.12.1 compatible (protocolo 9). En servidor se requiere ZoneCore 2.1.0 o posterior. ZoneLevelUp y ZGrimory habilitan sus respectivas integraciones.
+
+### English
+
+Server update for Minecraft Forge 1.20.1 and Java 17. Claim ZoneLevelUp level credits for the active character with /comprasniveles reclamar. Excess credits remain available after reaching the level cap. ZGrimory books stay queued for offline players or full inventories and can be collected with /compras. Receipt tracking prevents duplicate deliveries.
+
+Replace the server JAR and keep the compatible 1.12.1 client (protocol 9). The server requires ZoneCore 2.1.0 or later. ZoneLevelUp and ZGrimory enable their respective integrations.
+
+### Archivos / Files
+
+- [Servidor 1.12.2 / Server 1.12.2](https://www.curseforge.com/minecraft/mc-mods/zonecosmeticos/files/9730551)
+- [Cliente compatible 1.12.1 / Compatible client 1.12.1](https://www.curseforge.com/minecraft/mc-mods/zonecosmeticos/files/9515741)
+
+[Notas de la versión / Release notes](RELEASE-2026-11-21-1.12.2.md)
+
+## Historial / Previous releases
+
 A cosmetic wardrobe with seven categories, preview, purchases, permissions and three saved outfits. The standard collection now contains 94 entries, 61 geometric models and 14 wing styles.
 
 Armario de siete categorías con vista previa, compras, permisos y tres conjuntos. El catálogo estándar reúne 94 entradas, 61 modelos geométricos y 14 estilos de alas.
